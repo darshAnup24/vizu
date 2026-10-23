@@ -1,0 +1,10 @@
+fastapi
+pydantic
+python-dotenv
+google-generativeai
+pymongo
+chromadb
+sentence-transformers
+uvicorn[standard]
+google-genai
+google
